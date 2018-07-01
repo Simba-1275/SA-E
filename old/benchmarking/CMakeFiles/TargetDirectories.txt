@@ -1,0 +1,3 @@
+/home/webmaster/burrowswheeler/BWT/benchmarking/CMakeFiles/edit_cache.dir
+/home/webmaster/burrowswheeler/BWT/benchmarking/CMakeFiles/rebuild_cache.dir
+/home/webmaster/burrowswheeler/BWT/benchmarking/CMakeFiles/runbench.dir
